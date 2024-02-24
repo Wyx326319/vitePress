@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as p,a4 as t}from"./chunks/framework.CsYP9yp8.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"essay/web/css.md","filePath":"essay/web/css.md"}'),r={name:"essay/web/css.md"},o=t("",48),i=[o];function s(n,d,c,l,h,_){return p(),e("div",null,i)}const S=a(r,[["render",s]]);export{m as __pageData,S as default};
